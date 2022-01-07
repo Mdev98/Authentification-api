@@ -28,6 +28,8 @@ if(process.env.NODE_ENV === 'developpement'){
     app.use(morgan('dev'));
 }
 
+app.use(express.static(path.join(__dirname, 'public'))) 
+
 // Mounting Route
 
 app.use('/api/v1/auth', authRoute)
