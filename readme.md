@@ -24,8 +24,6 @@ npm start
 
 ## Demo
 
-The API is live at [auth.io](https://auth.io)
-
 Extensive documentation with examples [here](https://documenter.getpostman.com/view/17571014/UVXeqxZf)
 
 - Version: 1.0.0
