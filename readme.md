@@ -24,7 +24,7 @@ npm start
 
 ## Demo
 
-The API is live at [devcamper.io](https://auth.io)
+The API is live at [auth.io](https://auth.io)
 
 Extensive documentation with examples [here](https://documenter.getpostman.com/view/17571014/UVXeqxZf)
 
